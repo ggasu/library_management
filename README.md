@@ -1,6 +1,7 @@
 Kütüphane Otomasyon Sistemi
 
 Kullanım
+
 Program başlatıldığında, kullanıcı bir ana menüyle karşılaşacaktır. Menüdeki seçenekler aracılığıyla çeşitli işlemler gerçekleştirilebilir.
 
 Ana Menü Seçenekleri:
